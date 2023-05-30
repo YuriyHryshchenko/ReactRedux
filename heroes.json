@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "id": "1bcdf127-3047-46ff-859e-e986ac7f42e8",
+      "name": "Юрий",
+      "description": "фвфв",
+      "element": "water"
+    },
+    {
+      "id": "cbcdd24d-1c9f-4c36-814f-527687d472f0",
+      "name": "Юрий",
+      "description": "adad",
+      "element": "wind"
+    },
+    {
+      "id": "03749af0-9187-4fb1-878a-bcb2308a0bee",
+      "name": "Юрий",
+      "description": "adad",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
