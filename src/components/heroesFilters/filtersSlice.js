@@ -15,7 +15,6 @@ const initialState = filtersAdapter.getInitialState({
 	filtersLoadingStatus: 'idle',
 	activeFilter: 'all'
 });
-console.log(initialState)
 
 export const filtersFetched = createAsyncThunk(
 	'filters/filtersFetched',
